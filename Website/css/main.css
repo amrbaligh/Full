@@ -163,7 +163,7 @@ main{
         display: flex;
     }
     .slider{
-        background-image: url("/Website/imgs/small-1.jpg");
+        background-image: url("https://raw.githubusercontent.com/amrbaligh/Full/master/Website/imgs/small-1.jpg");
         background-size: cover ;
     }
     .slider .slider-text{
@@ -196,7 +196,7 @@ main{
         display: flex;
     }
     .slider{
-        background-image: url("/Website/imgs/small-1.jpg");
+        background-image: url("https://raw.githubusercontent.com/amrbaligh/Full/master/Website/imgs/small-1.jpg");
         background-size: cover;
     }
     .slider .slider-text{
