@@ -6,6 +6,10 @@ $(document).ready(function(){
             console.log("true");
             $(".side-elements").width(0);
             $(".side-element").css("display","none");
+            $("body").css({
+                height:"100%",
+                overflow:"scroll",
+            });
        }
        else{
         $(".side-elements").css("width","80vw");
