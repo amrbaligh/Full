@@ -10,6 +10,10 @@ $(document).ready(function(){
        else{
         $(".side-elements").css("width","80vw");
         $(".side-element").css("display","block");
+        $("body").css({
+            height:"100%",
+            overflow:"hidden"
+        });
        }
     });
   });
